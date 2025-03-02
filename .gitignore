@@ -1,0 +1,5 @@
+# env
+git-project/
+
+# others
+*.env
